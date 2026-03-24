@@ -10,21 +10,7 @@
   <img src="https://komarev.com/ghpvc/?username=ahmedmarzouki1993&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
----
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmedmarzouki1993&show_icons=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedmarzouki1993&layout=compact" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedmarzouki1993" />
-</p>
 
 ---
 
